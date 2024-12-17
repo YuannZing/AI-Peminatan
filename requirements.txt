@@ -1,8 +1,4 @@
 streamlit
-python-dotevr
-openai
 langchain_community
-fastapi
-uvicorn
 matplotlib
 groq
